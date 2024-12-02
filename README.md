@@ -1,7 +1,7 @@
 # SapphirePro_klipper
 Two Trees SapphirePro 3D printer settings for klipper
 
-Settings for OrcaSliser:
+Settings for OrcaSlicer:
   
   Start G-code:
   START_PRINT EXTRUDER_TEMP=[first_layer_temperature] BED_TEMP=[first_layer_bed_temperature] Z_ADJUST=0.070
