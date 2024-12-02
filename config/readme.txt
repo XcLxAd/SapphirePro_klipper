@@ -1,2 +1,2 @@
-Сopy to host to path: 
-~/printer_data/config
+Сopy to host 
+path: ~/printer_data/config
