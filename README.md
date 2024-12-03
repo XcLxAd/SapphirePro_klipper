@@ -10,7 +10,7 @@ __Settings for OrcaSlicer:__
 
     `START_PRINT EXTRUDER_TEMP=[first_layer_temperature] BED_TEMP=[first_layer_bed_temperature] Z_ADJUST=0.070`
 
-    `PRIME_LINE F={first_layer_speed}`
+    `PRIME_LINE F={initial_layer_speed}`
   
   - End G-code:
 
